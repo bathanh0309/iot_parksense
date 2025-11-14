@@ -1,13 +1,14 @@
-## Introduction
-- "Hardware with ESP32, Oled screen, DC motor using Relay, AC motor using Triac, sensors".
-- "Software with MQTT communicating with Broker helps to bring information to the web quickly and effectively".
-- Each part is designed in detail, taking on separate functions, contributing to creating a complete and effective product.
-## Quick View of the Project
+Nghiên cứu thiết kế mạch quản lí nhà xe, kết nối đến giao diện điều khiển
 
-**Layout on Altium Design software**
+Thành viên: Nguyễn Bá Thành, Võ Đức Hiếu, Hoàng Thị Hương Giang
+
+Kết quả: Mạch hoạt động tốt, web hoạt động tốt
+
+Nhược điểm: 
+- Web còn khá đơn giản và chưa tối ưu các chức năng
+- Mạch gộp chung nhiều nguồn vào chung, có thể có rủi ro
 ![image](Media/a.jpg)
 
-**2D on Altium Design software**
 ![image](Media/b.jpg)
 
 **3D on Altium Design software**
